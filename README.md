@@ -1,6 +1,6 @@
-# Hugbot-2.1
+# Behavioral Expression Research Final Prototype
 
-Hugbot 2.1 is an installation testing if a robot with simple action can steal people's sympathy. 
+The final prototype has a single expression method to test if audiences can empathzise similarly. 
 
 ## Miniature
  -  Ultrasonic Distance Sensor 
@@ -11,4 +11,4 @@ Hugbot 2.1 is an installation testing if a robot with simple action can steal pe
 
 ![](ReadmeMaterials/Hugging.gif)
 
-More introductions can be check out [here](https://fqhang.cargo.site/Hugbot2-1).
+More introductions can be check out [here](https://).
